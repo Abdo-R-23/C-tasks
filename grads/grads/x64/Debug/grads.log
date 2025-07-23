@@ -1,0 +1,3 @@
+﻿  grads.cpp
+D:\cs\my\C++ tasks\grads\grads\grads.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  grads.vcxproj -> D:\cs\my\C++ tasks\grads\x64\Debug\grads.exe
