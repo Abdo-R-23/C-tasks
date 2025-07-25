@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cs\\my\\C\u002B\u002B tasks\\convers grade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C983597-671A-4931-96C7-AFB5CC8E0735}|convers grade\\convers grade.vcxproj|D:\\cs\\my\\C\u002B\u002B tasks\\convers grade\\convers grade\\convers grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C983597-671A-4931-96C7-AFB5CC8E0735}|convers grade\\convers grade.vcxproj|solutionrelative:convers grade\\convers grade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "convers grade.cpp",
+              "DocumentMoniker": "D:\\cs\\my\\C\u002B\u002B tasks\\convers grade\\convers grade\\convers grade.cpp",
+              "RelativeDocumentMoniker": "convers grade\\convers grade.cpp",
+              "ToolTip": "D:\\cs\\my\\C\u002B\u002B tasks\\convers grade\\convers grade\\convers grade.cpp",
+              "RelativeToolTip": "convers grade\\convers grade.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T12:40:06.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
